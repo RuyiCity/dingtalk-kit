@@ -1,0 +1,16 @@
+{
+  "name": "dingtalk-kit",
+  "version": "1.0.0",
+  "description": "钉钉消息发送工具包 - 支持多种消息格式、主动发送、长文本处理",
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "keywords": ["dingtalk", "钉钉", "消息", "机器人"],
+  "tools": ["python"],
+  "config": {
+    "app_key": "",
+    "app_secret": "",
+    "robot_code": "",
+    "agent_id": "",
+    "default_chat_id": ""
+  }
+}

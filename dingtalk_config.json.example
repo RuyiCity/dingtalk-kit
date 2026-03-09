@@ -1,0 +1,13 @@
+{
+  "dingtalk": {
+    "enabled": true,
+    "type": "app",
+    "app": {
+      "app_key": "你的 AppKey (Client ID)",
+      "app_secret": "你的 AppSecret (Client Secret)",
+      "robot_code": "你的 RobotCode",
+      "agent_id": "你的 AgentId",
+      "default_chat_id": "默认群ID"
+    }
+  }
+}
